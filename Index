@@ -10,27 +10,13 @@
 <link rel="apple-touch-icon-precomposed" href="img/ios.png" />
 
 <!-- TYPEKIT -->
-<script src="http://use.typekit.com/lcw2zmq.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
 
 <!-- CSS -->
 <link href="css/pangea.css" rel="stylesheet"/>
 
 <!-- GOOGLE ANALYTICS -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-15270995-1']);
-  _gaq.push(['_setDomainName', '.pangeaconnect.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+<script type="text/javascript"></script>
 
 </head>
 <body>
@@ -42,7 +28,7 @@
 	
 		<hr />
 		<div id="subscriber">
-			<form action="http://pangea.createsend.com/t/r/s/nlltjd/" method="post" id="subForm">
+			<form action="" method="post" id="subForm">
 				<input type="submit" value="Subscribe" />
 				<input type="email" name="cm-nlltjd-nlltjd" id="nlltjd-nlltjd" placeholder="Your Email here" required/>
 			</form>
